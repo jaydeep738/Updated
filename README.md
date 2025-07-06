@@ -1,7 +1,7 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "version": "2.2.6",
+    "version": "2.2.8",
     "mandatory": false,
     "update_url": "https://t.me/ApkGeek",
     "title": "Доступно обновление!",
